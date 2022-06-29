@@ -19,9 +19,3 @@
 ## Licenses
 - All the content is under the license [GPL v3](https://github.com/IITH-CS1023/cs1023-sdf-project-team-3/blob/main/GPL-v3.0.md)
 - External resources used in game and their licenses are  listed [here](https://github.com/IITH-CS1023/cs1023-sdf-project-team-3/blob/main/PROJECT-TOTM/licenses.txt) 
-
-## Screenshots
-![Screenshot](screenshots/Screenshot-mm.png?raw=true "Sample Main Menu")
-![Screenshot](screenshots/Screenshot-l1.png?raw=true "Sample Main Menu")
-![Screenshot](screenshots/Screenshot-l2.png?raw=true "Sample Main Menu")
-![Screenshot](screenshots/Screenshot-l3.png?raw=true "Sample Main Menu")
