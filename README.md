@@ -8,14 +8,6 @@
 - Visual studio 17 or above
 - VC++ 17 or above
 
-
-
-## Contribution
-1) [Ojjas Tyagi](https://github.com/tyagio)
-2) [Ganesh Bombatkar](https://github.com/Ganesh-RB)
-3) [Mannam Sarandeep](https://github.com/sarandeepmannam)
-4) [MD Adil Salfi](https://github.com/AdilSalfi)
-
 ## Licenses
 - All the content is under the license [GPL v3](https://github.com/IITH-CS1023/cs1023-sdf-project-team-3/blob/main/GPL-v3.0.md)
 - External resources used in game and their licenses are  listed [here](https://github.com/IITH-CS1023/cs1023-sdf-project-team-3/blob/main/PROJECT-TOTM/licenses.txt) 
