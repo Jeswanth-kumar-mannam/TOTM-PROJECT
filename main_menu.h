@@ -1,0 +1,55 @@
+#ifndef MAIN_MENU_H
+#define MAIN_MENU_H
+
+#include "gen_menu.h"
+#include "level_selector.h"
+#include "help_screen.h"
+
+class main_menu :public gen_menu
+{
+private:
+	
+public:
+	////////////////////////////////////////////////////////////
+	/// \brief constructor
+	///
+	/// \param context std::shared_ptr<context>& shared 
+	/// reference to the active context
+	///
+	////////////////////////////////////////////////////////////
+	main_menu(std::shared_ptr<context>& context);
+
+	////////////////////////////////////////////////////////////
+	/// \brief destructor
+	/// 
+	////////////////////////////////////////////////////////////
+	virtual ~main_menu();
+
+	////////////////////////////////////////////////////////////
+	/// \brief override of pure virtual gen_menu class function variable_init()
+	/// this initializes variables which change from menu to menu
+	/// 
+	////////////////////////////////////////////////////////////
+	void variable_init() override;
+
+	////////////////////////////////////////////////////////////
+	/// \brief override of pure virtual gen_menu class function pollevents()
+	/// this initializes the input processing and actions
+	/// 
+	////////////////////////////////////////////////////////////
+	void pollevents() override;
+
+};
+////////////////////////////////////////////////////////////
+/// 
+/// \class main_menu
+///
+/// \brief class for the mainmenu screen
+///
+/// This class creates a main menu with options of playing 
+/// game going to the help menu or exiting the game,
+///this class is derived from gen_menu class
+///
+////////////////////////////////////////////////////////////
+
+#endif

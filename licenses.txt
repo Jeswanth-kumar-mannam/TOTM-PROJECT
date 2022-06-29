@@ -1,0 +1,33 @@
+buttons
+https://opengameart.org/content/beep-tone-sound-sfx
+https://opengameart.org/content/forward-button-press-ui-sound
+https://opengameart.org/content/backwards-button-press-ui-sound
+
+bounce sound
+https://freesound.org/people/qubodup/sounds/172660/
+
+teleport sound
+https://opengameart.org/content/8-bit-teleport
+
+collide sound
+https://freesound.org/people/jeckkech/sounds/391658/
+
+death sound
+https://freesound.org/people/MentosLat/sounds/417486/
+
+victory sound
+https://opengameart.org/content/win-sound-effect
+
+stretch sound
+https://freesound.org/people/hans/sounds/107784/
+
+dragon sound
+https://opengameart.org/content/birdcricketfrog-and-mosquito-sounds
+
+gun sound
+https://opengameart.org/content/battle-sound-effects
+
+fire ball sprites
+https://opengameart.org/content/fire-ball-pixel
+
+Sprites of dragon, gun/crab, teleporter, springs and player were made by using pixil.com website
